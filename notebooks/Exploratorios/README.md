@@ -9,7 +9,7 @@ Nesta pasta estão os notebooks auxiliares do projeto
 * Producao_hospitalar_com_correcao_monetaria.ipynb
 * limpeza_de_dados_IPCA_INPC.ipynb
 
-# 3. limpeza_de_dados_IPCA_INPC.ipynb [open](./Exploratorios/Correcao_monetaria.ipynb)
+# 3. limpeza_de_dados_IPCA_INPC.ipynb [open](./Correcao_monetaria.ipynb)
 
 Neste notebook os dodos de IPCA e INPC são tratados. Os dados brutos de IPCA e INPC foram retirados do IBGE.
 
